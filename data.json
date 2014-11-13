@@ -1,0 +1,32 @@
+{
+"links": [
+{"source":"US","target":"Asia","value":100000},
+{"source":"US","target":"Africa","value":200000},
+{"source":"US","target":"Middle East","value":300000},
+{"source":"UK","target":"South America","value":100000},
+{"source":"UK","target":"Asia","value":100000},
+{"source":"UK","target":"Africa","value":100000},
+{"source":"Germany","target":"Middle East","value":300000},
+{"source":"Germany","target":"South America","value":300000},
+{"source":"Germany","target":"Asia","value":300000},
+{"source":"Germany","target":"Africa","value":50000},
+{"source":"Spain","target":"Middle East","value":50000},
+{"source":"Spain","target":"South America","value":100000},
+{"source":"Spain","target":"Asia","value":100000},
+{"source":"France","target":"Africa","value":200000},
+{"source":"France","target":"Middle East","value":200000},
+{"source":"Italy","target":"South America","value":600000}
+] ,
+"nodes": [
+{"name":"US","color":"#ff1d25"},
+{"name":"UK","color":"#ff9018"},
+{"name":"Germany","color":"#000000"},
+{"name":"Spain","color":"#3fa9f5"},
+{"name":"France","color":"#7ac943"},
+{"name":"Italy","color":"#ffa4a7"},
+{"name":"Asia","color":"#b1b3b6​"},
+{"name":"Africa","color":"#ffc88d"},
+{"name":"Middle East","color":"#a4d8fd"},
+{"name":"South America","color":"#c2eba6"}
+] }
+
