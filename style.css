@@ -40,6 +40,22 @@
   font-style:italic;
 }
 
+body 
+            {
+        width:550px;
+        font-family:solido;
+        margin:20px auto;
+            }  
+
+#title
+{
+  font-size:28px;
+  font-weight: bold; 
+  margin: 5px auto;
+  position: relative;
+  left: 10%;
+  top:-7%;
+}
 
 .axis path,
 .axis line {
